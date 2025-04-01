@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.0.0-dev.0](https://github.com/c12i/rp-test/compare/rp-test-v0.1.0-dev.0...rp-test-v1.0.0-dev.0) (2025-04-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* update add
+
+### Features
+
+* update add ([c5390a8](https://github.com/c12i/rp-test/commit/c5390a80925229051abfba3e8966eccb6594fb8b))
+
+
+### Continuous Integration
+
+* update release-please options ([be1b591](https://github.com/c12i/rp-test/commit/be1b59136ae6f34187cfdd5031ed1128eb4eb617))
+
 ## [0.1.0-dev.0](https://github.com/c12i/rp-test/compare/rp-test-v0.1.0-dev.0...rp-test-v0.1.0-dev.0) (2025-04-01)
 
 
