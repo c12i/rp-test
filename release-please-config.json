@@ -3,17 +3,17 @@
     ".": {
       "changelog-path": "CHANGELOG.md",
       "release-type": "rust",
-      "bump-minor-pre-major": true,
-      "bump-patch-for-minor-pre-major": true,
+      "bump-minor-pre-major": false,
+      "bump-patch-for-minor-pre-major": false,
       "prerelease-type": "dev",
       "include-v-in-tag": true,
-      "versioning": "always-bump-patch",
+      "versioning": "prerelease",
       "draft": false,
       "prerelease": true,
       "changelog-sections": [
         { "type": "feat", "section": "Features", "hidden": false },
         { "type": "fix", "section": "Bug Fixes", "hidden": false },
-        { "type": "chore", "section": "Miscellaneous", "hidden": false },
+        { "type": "chore", "section": "Miscellaneous", "hidden": true },
         { "type": "ci", "section": "Continuous Integration", "hidden": false }
       ]
     }
