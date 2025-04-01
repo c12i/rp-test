@@ -1,0 +1,11 @@
+[package]
+name = "rp-test"
+version = "0.1.0"
+edition = "2024"
+description = "testing release_plz"
+homepage = "https://developer.holochain.org"
+documentation = "https://developer.holochain.org"
+license = "MIT"
+repository = "https://developer.holochain.org"
+
+[dependencies]
