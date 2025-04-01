@@ -14,7 +14,7 @@ jobs:
         with:
           config-file: release-please-config.json
           token: ${{ secrets.GH_TOKEN }}
-          default-branch: main
+          target-branch: main
 
       - uses: actions/checkout@v4
         if: ${{ steps.release.outputs.release_created }}
