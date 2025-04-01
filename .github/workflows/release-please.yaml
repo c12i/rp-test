@@ -9,11 +9,10 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - uses: google-github-actions/release-please-action@v3
+      - uses: googleapis/release-please-action@v4
         id: release
         with:
-          release-type: rust
-          package-name: rp-test
+          config-file: release-please-config.json
           token: ${{ secrets.GH_TOKEN }}
 
       - uses: actions/checkout@v4
