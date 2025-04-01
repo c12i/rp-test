@@ -3,15 +3,22 @@
     ".": {
       "changelog-path": "CHANGELOG.md",
       "release-type": "rust",
-      "bump-minor-pre-major": false,
-      "bump-patch-for-minor-pre-major": false,
+      "bump-minor-pre-major": true,
+      "bump-patch-for-minor-pre-major": true,
+      "prerelease-type": "dev",
+      "include-v-in-tag": true,
+      "versioning": "always-bump-patch",
       "draft": false,
-      "prerelease": false
+      "prerelease": true,
+      "changelog-sections": [
+        { "type": "feat", "section": "Features", "hidden": false },
+        { "type": "fix", "section": "Bug Fixes", "hidden": false },
+        { "type": "chore", "section": "Miscellaneous", "hidden": false },
+        { "type": "ci", "section": "Continuous Integration", "hidden": false }
+      ]
     }
   },
-  "plugins": [
-    "cargo-workspace"
-  ],
+  "plugins": ["cargo-workspace"],
   "prerelease-type": "dev",
   "bootstrap-sha": "712a1273925d8735f9759c99f4a445279830d978",
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"

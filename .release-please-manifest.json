@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 {
   ".": "0.0.0"
 }
+=======
+{ ".": "0.1.0-dev.0" }
+>>>>>>> fcbbaca (ci: update pre-release type)
