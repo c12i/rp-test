@@ -1,15 +1,18 @@
 {
   "packages": {
     ".": {
+      "changelog-path": "CHANGELOG.md",
       "release-type": "rust",
-      "package-name": "rp-test",
-      "prerelease": true,
-      "versioning": "default",
-      "bump-minor-pre-major": true,
-      "bump-patch-for-minor-pre-major": false
+      "bump-minor-pre-major": false,
+      "bump-patch-for-minor-pre-major": false,
+      "draft": false,
+      "prerelease": false
     }
   },
-  "plugins": ["cargo-workspace"],
+  "plugins": [
+    "cargo-workspace"
+  ],
   "prerelease-type": "dev",
-  "bootstrap-sha": "712a1273925d8735f9759c99f4a445279830d978"
+  "bootstrap-sha": "712a1273925d8735f9759c99f4a445279830d978",
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
 }
