@@ -1,6 +1,6 @@
 [package]
 name = "rp-test"
-version = "1.0.0-dev.0"
+version = "0.1.0-dev.1"
 edition = "2024"
 description = "testing release_plz"
 homepage = "https://developer.holochain.org"
