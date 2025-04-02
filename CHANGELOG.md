@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.0-dev.2](https://github.com/c12i/rp-test/compare/rp-test-v0.1.0-dev.1...rp-test-v0.1.0-dev.2) (2025-04-02)
+
+
+### Features
+
+* add rand ([9af5260](https://github.com/c12i/rp-test/commit/9af526020dfef19df9c2ec91a61aa4d2b456e6a0))
+* make add generic ([8f8ef15](https://github.com/c12i/rp-test/commit/8f8ef157cc32e4a4e422083ac572ebc9ed41aa96))
+
 ## [0.1.0-dev.1](https://github.com/c12i/rp-test/compare/rp-test-v0.1.0-dev.0...rp-test-v0.1.0-dev.1) (2025-04-01)
 
 
