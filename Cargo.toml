@@ -1,6 +1,6 @@
 [package]
 name = "rp-test"
-version = "0.1.0-dev.1"
+version = "0.0.0"
 edition = "2024"
 description = "testing release_plz"
 homepage = "https://developer.holochain.org"
@@ -9,5 +9,3 @@ license = "MIT"
 repository = "https://developer.holochain.org"
 
 [dependencies]
-num = "0.4.3"
-rand = "0.9.0"
