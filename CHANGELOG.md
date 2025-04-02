@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.1](https://github.com/c12i/rp-test/compare/rp-test-v0.0.0...rp-test-v0.0.1) (2025-04-02)
+
+
+### Documentation
+
+* add rustdocs ([0ca89fe](https://github.com/c12i/rp-test/commit/0ca89fe67821a4d378f975957c59d693289f2ca1))
+
 ## 0.0.0 (2025-04-02)
 
 
