@@ -5,9 +5,9 @@
       "release-type": "rust",
       "include-v-in-tag": true,
       "versioning": "always-bump-patch",
+      "initial-version": "0.0.0",
       "draft": false,
       "prerelease": false,
-      "release-as": "0.0.0",
       "changelog-sections": [
         { "type": "feat", "section": "Features", "hidden": false },
         { "type": "fix", "section": "Bug Fixes", "hidden": false },
