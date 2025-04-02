@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0-dev.3](https://github.com/c12i/rp-test/compare/rp-test-v0.1.0-dev.2...rp-test-v0.1.0-dev.3) (2025-04-02)
+
+
+### Features
+
+* add multiply fn ([de48587](https://github.com/c12i/rp-test/commit/de4858796ee211f8efde8acfe6210545f90f544b))
+
 ## [0.1.0-dev.2](https://github.com/c12i/rp-test/compare/rp-test-v0.1.0-dev.1...rp-test-v0.1.0-dev.2) (2025-04-02)
 
 
